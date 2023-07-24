@@ -18,11 +18,13 @@ Hey there! 👋 I'm Luis Mancilla, a passionate technologist with a background i
     <summary><h2 style="display: inline-block">🤵 About Me:</h2></summary>
   </ul>
 </div>
-* 💻 I am a front end web developer
-* 🎨 I am a front end web developer
-* 📱 I make websites
-* 🎓 I am a systems engineering technologist
-* 🌐 You can see some of my projects on [my portfolio](https://portafolio3698.000webhostapp.com/)
+<h1>💻 I am a front end web developer</h1>
+<h1>🎨 I am a front end web developer</h1>
+<h1>📱 I make websites</h1>
+<h1>🎓 I am a systems engineering technologist</h1>
+<h1>🌐 You can see some of my projects on <a href="https://portafolio3698.000webhostapp.com/">my portfolio</a></h1>
+
+
 
 
 <!--- snake -->
