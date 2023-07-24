@@ -10,7 +10,12 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Luis Mancilla</h1></summary>
   </ul>
 </div>
-### 🤵 About Me:
+<div id="user-content-toc">
+  <ul >
+    <summary><h5 style="display: inline-block">🤵 About Me:</h5></summary>
+  </ul>
+</div>
+
 Hey there! 👋 I'm Luis Mancilla, a passionate technologist with a background in analysis and development of information systems. I'm also currently pursuing a degree in Systems Engineering. My main focus is on front-end web development, and I love creating visually appealing and user-friendly interfaces.
 
 
