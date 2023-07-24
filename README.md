@@ -13,9 +13,7 @@
 ### 🤵 About Me:
 Hey there! 👋 I'm Luis Mancilla, a passionate technologist with a background in analysis and development of information systems. I'm also currently pursuing a degree in Systems Engineering. My main focus is on front-end web development, and I love creating visually appealing and user-friendly interfaces.
 
-Technologies I'm Familiar With 👨🏻‍💻
 
-I have experience working with various tools and technologies in the world of web development. Here are some of the technologies that I am familiar with:
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -28,6 +26,10 @@ I have experience working with various tools and technologies in the world of we
   </ul>
 </div>
 <!--tech stack icons-->
+
+Technologies I'm Familiar With 👨🏻‍💻
+
+I have experience working with various tools and technologies in the world of web development. Here are some of the technologies that I am familiar with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,babel,photoshop,xd,visualstudio,sass,vite,bootstrap,css,discord,docker,figma,firebase,github,html,idea,java,js,kotlin,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
