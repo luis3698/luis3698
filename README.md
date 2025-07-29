@@ -2,7 +2,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -27,11 +26,11 @@ Hey there! 👋 I'm Luis Mancilla, a passionate technologist with a background i
 
 
 
-<!--- snake -->
+<!--- snake 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div>-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -53,9 +52,9 @@ I have experience working with various tools and technologies in the world of we
 <hr>      
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-gerardo-m-33969a190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/luis.mancilla.3698/about_contact_and_basic_info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis" height="30" width="40"/></a>
-  <a href="https://www.instagram.com/luis_m_3698/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/luis-mancilla-750327374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis" height="30" width="40"/></a>
+  <a href="https://www.facebook.com/LuisGMancillaG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis" height="30" width="40"/></a>
+  <a href="https://www.instagram.com/luis_3698m/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis" height="30" width="40" /></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
