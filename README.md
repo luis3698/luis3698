@@ -11,16 +11,18 @@
 </div>
 
 
-Hey there! 👋 I'm Luis Mancilla, a passionate technologist with a background in analysis and development of information systems. I'm also currently pursuing a degree in Systems Engineering. My main focus is on front-end web development, and I love creating visually appealing and user-friendly interfaces.
+Hey there! 👋 I'm Luis Mancilla, a Systems Engineer and Technologist in Analysis and Development of Information Systems. I have experience in web development, technical support, network administration and database management. My main focus is on front-end web development, and I love creating visually appealing and user-friendly interfaces, as well as building efficient solutions that optimize administrative processes.
 <div id="user-content-toc">
   <ul >
     <summary><h2 style="display: inline-block">🤵 About Me:</h2></summary>
   </ul>
 </div>
-<p>💻 I am a front end web developer</p>
-<p>🎨 I am a front end web developer</p>
-<p>📱 I make websites</p>
-<p>🎓 I am a systems engineering technologist</p>
+<p>💻 I am a front-end web developer</p>
+<p>🖥️ I am a Systems Engineer</p>
+<p>🛠️ I work in technical support, databases and process systematization</p>
+<p>📱 I make responsive websites and web applications</p>
+<p>🤖 I build with AI tools like Claude</p>
+<p>🌱 I'm currently learning and improving my English (A2) and deepening my back-end skills</p>
 <p>🌐 You can see some of my projects on <a href="https://portafolio3698.000webhostapp.com/">my portfolio</a></p>
 
 
@@ -44,7 +46,17 @@ Technologies I'm Familiar With 👨🏻‍💻
 I have experience working with various tools and technologies in the world of web development. Here are some of the technologies that I am familiar with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,babel,photoshop,xd,visualstudio,sass,vite,bootstrap,css,discord,docker,figma,firebase,github,html,idea,java,js,kotlin,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,babel,photoshop,xd,visualstudio,sass,vite,bootstrap,css,discord,docker,figma,firebase,github,html,idea,java,js,kotlin,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,vue,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
+<!-- AI tools -->
+<p align="center">
+  <a href="https://claude.ai" target="blank">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="blank">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   </a>
 </p>
 
